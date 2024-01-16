@@ -1,7 +1,10 @@
 ## Changelog
 
+#### CL:1.0.3:
+- code tidy up.
+
 #### CL:1.0.2:
-- Added shadcn ui library.
+- Added other libs.
 
 #### CL:1.0.1:
 - Added shadcn ui library.
